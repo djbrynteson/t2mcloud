@@ -6,5 +6,6 @@
 Cloud Portal
 [Click Me Link](cloud/README.md)
 
-https://guides.github.com/features/mastering-markdown/
+- https://guides.github.com/features/mastering-markdown/
+- https://www.markdownguide.org/basic-syntax/
 
