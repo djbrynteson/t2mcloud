@@ -3,6 +3,8 @@
 * [Skype for Business Reference Guide (8 Pages)](https://dev.t2mhosted.com/handouts/Reference_SfB_2015.pdf)
 * [Using Skype for Business and Skype Consumer](https://dev.t2mhosted.com/handouts/Using_Skype_for_Business_and_Skype_Consumer.pdf)
 
+Cloud Portal
+[Click Me Link](docs/portal.md)
+
 https://guides.github.com/features/mastering-markdown/
 
-testing
